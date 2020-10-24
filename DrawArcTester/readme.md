@@ -8,5 +8,8 @@
 
 간단한 테스트 목적으로 만들어진 것이기에 오류가 있을 수 있습니다.
 
+**DrawArc Images**
+https://flylib.com/books/1/488/1/html/2/images/067232234x/graphics/17fig01.gif
+
 ## 업데이트
 v0.1: 업데이트 종료
